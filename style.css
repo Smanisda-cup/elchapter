@@ -171,7 +171,7 @@ body {
 @media screen and (max-width: 767px){
     /* mobile */
     .about {
-      padding: 250px 50px 20px;
+      padding: 400px 50px 20px;
      }
 
     header ul {
@@ -214,5 +214,4 @@ body {
       background-color: #ffcc00;
       transition: none;
      }
-
 }
